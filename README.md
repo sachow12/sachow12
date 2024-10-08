@@ -53,7 +53,7 @@
 ###
 
 <div align="left">
-  ![sachow12's Stats](https://github-readme-stats.vercel.app/api?username=sachow12&theme=bear&show_icons=true&hide_border=true&count_private=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=sachow12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachow12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
