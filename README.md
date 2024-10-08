@@ -53,7 +53,7 @@
 ###
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachow12&show_icons=true&theme=synthwave&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sachow12&show_icons=true&theme=bear&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachow12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
