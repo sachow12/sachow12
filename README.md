@@ -41,9 +41,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+ <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
 </div>
 
 ###
