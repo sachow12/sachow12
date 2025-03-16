@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um estudante de Ciência da Computação pela UNIFOR, tenho afinidade com Java e paixão por desenvolvimento de projetos. Sempre buscando novas oportunidades de aprendizado e evolução na área de tecnologia.</p>
+<p align="left">Sou um desenvolvedor Full-Stack com proficiência em frameworks front-end como Angular e React, Frameworks back-end como Spring Boot e Node.js. Além de conhecimentos com Banco de dados MySQL e SQLServer </p>
 
 ###
 
